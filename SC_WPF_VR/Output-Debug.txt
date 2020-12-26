@@ -1,0 +1,23 @@
+﻿'SC_WPF_VR.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: DefaultDomain): Loaded 'C:\Users\steve\OneDrive\Desktop\PROJEKTTOWORKON\1stVersion\1stVersion\SC_WPF_VR\SC_WPF_VR\bin\Release\SC_WPF_VR.exe'. Symbols loaded.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\WindowsBase\v4.0_4.0.0.0__31bf3856ad364e35\WindowsBase.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_32\PresentationCore\v4.0_4.0.0.0__31bf3856ad364e35\PresentationCore.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xaml\v4.0_4.0.0.0__b77a5c561934e089\System.Xaml.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\PresentationFramework.Aero2\v4.0_4.0.0.0__31bf3856ad364e35\PresentationFramework.Aero2.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationTypes\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationTypes.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\UIAutomationProvider\v4.0_4.0.0.0__31bf3856ad364e35\UIAutomationProvider.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\Users\steve\OneDrive\Desktop\PROJEKTTOWORKON\1stVersion\1stVersion\SC_WPF_VR\SC_WPF_VR\bin\Release\Ab3d.OculusWrap.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\Users\steve\OneDrive\Desktop\PROJEKTTOWORKON\1stVersion\1stVersion\SC_WPF_VR\SC_WPF_VR\bin\Release\SharpDX.Mathematics.dll'. Symbols loaded.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\Users\steve\OneDrive\Desktop\PROJEKTTOWORKON\1stVersion\1stVersion\SC_WPF_VR\SC_WPF_VR\bin\Release\SharpDX.DXGI.dll'. Symbols loaded.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\Users\steve\OneDrive\Desktop\PROJEKTTOWORKON\1stVersion\1stVersion\SC_WPF_VR\SC_WPF_VR\bin\Release\SharpDX.dll'. Symbols loaded.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\Users\steve\OneDrive\Desktop\PROJEKTTOWORKON\1stVersion\1stVersion\SC_WPF_VR\SC_WPF_VR\bin\Release\SharpDX.Direct3D11.dll'. Symbols loaded.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Cannot find or open the PDB file.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\Users\steve\OneDrive\Desktop\PROJEKTTOWORKON\1stVersion\1stVersion\SC_WPF_VR\SC_WPF_VR\bin\Release\SharpDX.D3DCompiler.dll'. Symbols loaded.
+'SC_WPF_VR.exe' (CLR v4.0.30319: SC_WPF_VR.exe): Loaded 'C:\Users\steve\OneDrive\Desktop\PROJEKTTOWORKON\1stVersion\1stVersion\SC_WPF_VR\SC_WPF_VR\bin\Release\SharpDX.DirectInput.dll'. Symbols loaded.
+The program '[2588] SC_WPF_VR.exe' has exited with code 0 (0x0).
