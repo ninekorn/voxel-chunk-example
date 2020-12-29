@@ -17,7 +17,7 @@ c# isn't a bad thing. I was having strange results when using the "floor" or "ce
 thank you for reading me.
 steve chassé
 
-Here is what it looks like... It looks like a normal chunk, but its made of instanced chunks where the chunk integer 0 or 1 decide of the triangles to be displayed or not. It's of very poor performance as the vertexes and triangles that aren't visible on the screen are still drawn. I thought using a Geometry shader would make me able to remove the surplus vertices but, thats not really working...
+Here is what it looks like... It looks like a normal chunk, but its made of instanced chunks where the chunk integer 0 or 1 decide of the triangles to be displayed or not from within the shader itself. It's of very poor performance as the vertexes and triangles that aren't visible on the screen are still drawn. I thought using a Geometry shader would make me able to remove the surplus vertices but, thats not really working...
 I'm going to find an alternative.
 <img src="https://i.ibb.co/F0VpVPS/Vertex-Binding-Chunk-Data.png" alt="Vertex-Binding-Chunk-Data" border="0">
 
