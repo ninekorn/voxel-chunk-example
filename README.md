@@ -1,6 +1,6 @@
 OCULUS RIFT CV1 ONLY
 # voxel-chunk-example
-voxel chunk with instanced "integer chunk" for an alternative to using an additional buffer for the shader to update the instanced vertex position.The idea is great, but the performance suffers greatly. trololol.
+voxel chunk with instanced "integer chunk" for an alternative to using an additional buffer for the shader to update the instanced vertex position.The idea is great, but the performance suffers of course when there are so many triangles and vertices drawn on the screen. And thats an old project. Its an old project. 
 
 i have built this program by myself using sharpdx and the ab3d.oculusWrap. this is a wpf version supposedly but it aint using xaml.
 
