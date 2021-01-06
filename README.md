@@ -238,13 +238,13 @@ The shader code:
 
 
 
-Chunk Map code based on the craig perko youtube old minecraft tutorial. i build the chunk "byte/integer" map adding the bytes into a couple of integers.
+Chunk Map code based on the craig perko youtube old minecraft tutorial. i build the chunk "byte/integer" map adding the bytes into a couple of integers that i use as vertex binding elements instead of updating an HLSL "cbuffer" every frame.
 
-using System;
-using SharpDX;
+  using System;
+  using SharpDX;
 
-namespace SC_WPF_VR
-{
+  namespace SC_WPF_VR
+  {
     public class chunk
     {
         float staticPlaneSize;
