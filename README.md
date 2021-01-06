@@ -231,7 +231,7 @@ The shader code:
       }*/
 
 
-The chunk noise Map is based on the craig perko youtube old minecraft tutorial. But i added a way to squeeze the chunk "byte/integer" map adding the bytes into a couple of integers that i use as vertex binding elements instead of updating an HLSL "cbuffer" every frame. It's a different way to update the shader and i thought it was giving better performance than updating a "cbuffer".
+The chunk noise Map is based on the craig perko youtube old minecraft tutorial. But i added a way to squeeze the chunk "byte/integer" into a couple of integers that i use as vertex binding elements "array of data" instead of updating an HLSL "cbuffer" every frame. It's a different way to update the shader and i thought it was giving better performance than updating a "cbuffer".
 
 
 
