@@ -273,7 +273,7 @@ The chunk noise Map is based on the craig perko youtube old minecraft tutorial. 
       }
 
 
-The shader code that retrieves the instance position and if the face should be drawn or not based on the "integer" map. This is also the first time i used bitshift operators and i used them because for some annoying reasons i couldn't understand, i was using HLSL "floor" or "ceil" function and it wasn't working. i thought casting to an "int" was going to make it work but it wouldn't. So i went ahead and tried finding a fast solution. It's something that i was proud to achieve by my own, although it can be regarded as useless by many people.
+The shader code that retrieves the instance position and if the face should be drawn or not based on the "integer" map. This is also the first time i used bitshift operators and i used them because for some annoying reasons i couldn't understand, i was using HLSL "floor" or "ceil" function and it wasn't working. i thought casting to an "int" was going to make it work but it wouldn't as it seemed to always remain a "float" with decimals... That's why i chose to turn use integers to pass in the data to the VertexInputType. So i went ahead and tried finding a fast solution. It's something that i was proud to achieve by my own, although it can be regarded as useless by many people.
 
       cbuffer MatrixBuffer :register(b0)
       {
